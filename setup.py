@@ -16,9 +16,9 @@ setup_requires = [
 ]
 
 install_requires = [
-    'Flask~=0.0,>=0.12.2',
-    'click~=6.0,>=6.7',
-    'ptpython~=0.0,>=0.41',
+    'Flask>=0.12.2',
+    'click>=6.7',
+    'ptpython>=0.41',
 ]
 
 docs_require = []
